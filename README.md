@@ -1,2 +1,2 @@
 # SongsEtc
-A simple example of a lyric word average for an artists songs
+A simple example of a word average for an artists songs
