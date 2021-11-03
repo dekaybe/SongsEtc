@@ -2,7 +2,12 @@
 # 
 # Install the package using python3 -m pip install XXX-?.?.tar.gz
 # Test the install with python3 test.py Fred Smith
-# 
+#
+# Dependencies
+# Python >  3.6
+# pandas >= 1.1.5
+# pip    >= 21.3.1
+#
 # TODO
 # The databases of artist songs and song lyrics are 
 #   currently just simple csv files
