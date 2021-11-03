@@ -1,0 +1,8 @@
+README.md
+setup.py
+src/ArtistSongsLyrics/SongsEtc.py
+src/ArtistSongsLyrics/__init__.py
+src/ArtistSongsLyrics.egg-info/PKG-INFO
+src/ArtistSongsLyrics.egg-info/SOURCES.txt
+src/ArtistSongsLyrics.egg-info/dependency_links.txt
+src/ArtistSongsLyrics.egg-info/top_level.txt
