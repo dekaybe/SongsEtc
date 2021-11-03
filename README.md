@@ -6,7 +6,7 @@
 # TODO
 # The databases of artist songs and song lyrics are 
 #   currently just simple csv files
-# I created them as fnctions so that if the method of
+# I created them as functions so that if the method of
 #   collection were changed only these functions will
 #   need amending.
 #
