@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
      name='ArtistSongsLyrics',  
-     version='0.2',
+     version='0.3',
      author="Dave Brown",
      author_email="dave.k.flowers@gmail.com",
      description="Oooo the way you move me baby",
